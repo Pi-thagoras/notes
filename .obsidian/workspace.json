@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb696878b5298d98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4f0b6c51cc8af5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Market Failure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Market Failure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Market Failure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Market Failure.md"
               }
             }
           }
@@ -146,6 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43562aee34e02932",
-  "lastOpenFiles": []
+  "active": "f4f0b6c51cc8af5e",
+  "lastOpenFiles": [
+    "Economics Notes.md",
+    "Market Failure.md",
+    "README.md",
+    "test.md",
+    "index.md"
+  ]
 }
