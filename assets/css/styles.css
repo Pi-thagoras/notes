@@ -1,7 +1,7 @@
 ---
 ---
 
-/*@import "{{ site.theme }}";*/
+@import "{{ site.theme }}";
 
 /* any extra css goes below here :-) */
 
