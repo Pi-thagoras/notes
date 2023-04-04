@@ -4,3 +4,7 @@
 @import "{{ site.theme }}";
 
 /* any extra css goes below here :-) */
+
+header {
+    background-color: rgb(0, 188, 175);
+}
