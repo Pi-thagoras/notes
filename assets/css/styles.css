@@ -1,7 +1,13 @@
+---
+---
+
+
 @import "{{ site.theme }}";
 
 
-header {
-    background-color: red;
-    height:100px;
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #0045c4;
+
 }
