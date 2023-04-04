@@ -10,4 +10,4 @@ Current Notes :-)
 
 finally, you can make files, and you can link to images too: ![\!\[like this\]\(assets/axolotl.pn)](assets/axolotl.png)
 
-[![Waving_Pi](assets/Waving_Pi.png|50)]]
+[![Waving_Pi](assets/Waving_Pi.png)]
