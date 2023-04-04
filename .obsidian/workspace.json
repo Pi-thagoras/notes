@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Economics Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Economics Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Economics Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Economics Notes.md"
               }
             }
           }
@@ -158,13 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2d30992dedd462c",
+  "active": "43562aee34e02932",
   "lastOpenFiles": [
-    "assets/Waving_Pi.png",
-    "Economics Notes.md",
     "index.md",
-    "test.md",
+    "Economics Notes.md",
     "Market Failure.md",
+    "assets/Waving_Pi.png",
+    "test.md",
     "README.md"
   ]
 }
