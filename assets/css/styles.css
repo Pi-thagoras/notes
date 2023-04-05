@@ -3,8 +3,9 @@
 
 @import "{{ site.theme }}";
 
-.page-header {
-    color: #fff;
-    text-align: center;
-    background-color: #0045c4;
+
+
+
+body {
+    color: #0055ff;
 }
