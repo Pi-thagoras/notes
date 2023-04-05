@@ -1,3 +1,18 @@
+# Take https://spicata.github.io/jsp/ for example
+# You will notice that https://spicata.github.io is the actual URL
+# The /jsp bit is what is called a 'base URL'
+# If you have a base URL, replace the 'jsp' with yours
+
+baseurl: notes
+
+# ignore everything below this line. it is not relevant for your purposes.
+
 remote_theme: pages-themes/cayman@v0.2.0
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
 plugins:
 - jekyll-remote-theme
