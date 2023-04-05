@@ -3,9 +3,10 @@
 
 @import "{{ site.theme }}";
 
-
-
-
-body {
-    color: #0055ff;
+.page-header {
+    color: #fff !important;
+    text-align: center !important;
+    background-color: #0045c4 !important;
 }
+
+
